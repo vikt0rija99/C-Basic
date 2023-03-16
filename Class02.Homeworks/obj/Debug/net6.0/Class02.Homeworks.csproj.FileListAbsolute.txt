@@ -1,0 +1,15 @@
+C:\Users\Martin Srbinoski\Desktop\VEZBE\C#\Class02.DataTypesAndBranching\Class02.Homeworks\bin\Debug\net6.0\Class02.Homeworks.exe
+C:\Users\Martin Srbinoski\Desktop\VEZBE\C#\Class02.DataTypesAndBranching\Class02.Homeworks\bin\Debug\net6.0\Class02.Homeworks.deps.json
+C:\Users\Martin Srbinoski\Desktop\VEZBE\C#\Class02.DataTypesAndBranching\Class02.Homeworks\bin\Debug\net6.0\Class02.Homeworks.runtimeconfig.json
+C:\Users\Martin Srbinoski\Desktop\VEZBE\C#\Class02.DataTypesAndBranching\Class02.Homeworks\bin\Debug\net6.0\Class02.Homeworks.dll
+C:\Users\Martin Srbinoski\Desktop\VEZBE\C#\Class02.DataTypesAndBranching\Class02.Homeworks\bin\Debug\net6.0\Class02.Homeworks.pdb
+C:\Users\Martin Srbinoski\Desktop\VEZBE\C#\Class02.DataTypesAndBranching\Class02.Homeworks\obj\Debug\net6.0\Class02.Homeworks.csproj.AssemblyReference.cache
+C:\Users\Martin Srbinoski\Desktop\VEZBE\C#\Class02.DataTypesAndBranching\Class02.Homeworks\obj\Debug\net6.0\Class02.Homeworks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Martin Srbinoski\Desktop\VEZBE\C#\Class02.DataTypesAndBranching\Class02.Homeworks\obj\Debug\net6.0\Class02.Homeworks.AssemblyInfoInputs.cache
+C:\Users\Martin Srbinoski\Desktop\VEZBE\C#\Class02.DataTypesAndBranching\Class02.Homeworks\obj\Debug\net6.0\Class02.Homeworks.AssemblyInfo.cs
+C:\Users\Martin Srbinoski\Desktop\VEZBE\C#\Class02.DataTypesAndBranching\Class02.Homeworks\obj\Debug\net6.0\Class02.Homeworks.csproj.CoreCompileInputs.cache
+C:\Users\Martin Srbinoski\Desktop\VEZBE\C#\Class02.DataTypesAndBranching\Class02.Homeworks\obj\Debug\net6.0\Class02.Homeworks.dll
+C:\Users\Martin Srbinoski\Desktop\VEZBE\C#\Class02.DataTypesAndBranching\Class02.Homeworks\obj\Debug\net6.0\refint\Class02.Homeworks.dll
+C:\Users\Martin Srbinoski\Desktop\VEZBE\C#\Class02.DataTypesAndBranching\Class02.Homeworks\obj\Debug\net6.0\Class02.Homeworks.pdb
+C:\Users\Martin Srbinoski\Desktop\VEZBE\C#\Class02.DataTypesAndBranching\Class02.Homeworks\obj\Debug\net6.0\Class02.Homeworks.genruntimeconfig.cache
+C:\Users\Martin Srbinoski\Desktop\VEZBE\C#\Class02.DataTypesAndBranching\Class02.Homeworks\obj\Debug\net6.0\ref\Class02.Homeworks.dll
