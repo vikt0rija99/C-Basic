@@ -1,0 +1,15 @@
+C:\Users\Martin Srbinoski\Desktop\VEZBE\C#\Class02.DataTypesAndBranching\Class02.ConditionalStructures\bin\Debug\net6.0\Class02.ConditionalStructures.exe
+C:\Users\Martin Srbinoski\Desktop\VEZBE\C#\Class02.DataTypesAndBranching\Class02.ConditionalStructures\bin\Debug\net6.0\Class02.ConditionalStructures.deps.json
+C:\Users\Martin Srbinoski\Desktop\VEZBE\C#\Class02.DataTypesAndBranching\Class02.ConditionalStructures\bin\Debug\net6.0\Class02.ConditionalStructures.runtimeconfig.json
+C:\Users\Martin Srbinoski\Desktop\VEZBE\C#\Class02.DataTypesAndBranching\Class02.ConditionalStructures\bin\Debug\net6.0\Class02.ConditionalStructures.dll
+C:\Users\Martin Srbinoski\Desktop\VEZBE\C#\Class02.DataTypesAndBranching\Class02.ConditionalStructures\bin\Debug\net6.0\Class02.ConditionalStructures.pdb
+C:\Users\Martin Srbinoski\Desktop\VEZBE\C#\Class02.DataTypesAndBranching\Class02.ConditionalStructures\obj\Debug\net6.0\Class02.ConditionalStructures.csproj.AssemblyReference.cache
+C:\Users\Martin Srbinoski\Desktop\VEZBE\C#\Class02.DataTypesAndBranching\Class02.ConditionalStructures\obj\Debug\net6.0\Class02.ConditionalStructures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Martin Srbinoski\Desktop\VEZBE\C#\Class02.DataTypesAndBranching\Class02.ConditionalStructures\obj\Debug\net6.0\Class02.ConditionalStructures.AssemblyInfoInputs.cache
+C:\Users\Martin Srbinoski\Desktop\VEZBE\C#\Class02.DataTypesAndBranching\Class02.ConditionalStructures\obj\Debug\net6.0\Class02.ConditionalStructures.AssemblyInfo.cs
+C:\Users\Martin Srbinoski\Desktop\VEZBE\C#\Class02.DataTypesAndBranching\Class02.ConditionalStructures\obj\Debug\net6.0\Class02.ConditionalStructures.csproj.CoreCompileInputs.cache
+C:\Users\Martin Srbinoski\Desktop\VEZBE\C#\Class02.DataTypesAndBranching\Class02.ConditionalStructures\obj\Debug\net6.0\Class02.ConditionalStructures.dll
+C:\Users\Martin Srbinoski\Desktop\VEZBE\C#\Class02.DataTypesAndBranching\Class02.ConditionalStructures\obj\Debug\net6.0\refint\Class02.ConditionalStructures.dll
+C:\Users\Martin Srbinoski\Desktop\VEZBE\C#\Class02.DataTypesAndBranching\Class02.ConditionalStructures\obj\Debug\net6.0\Class02.ConditionalStructures.pdb
+C:\Users\Martin Srbinoski\Desktop\VEZBE\C#\Class02.DataTypesAndBranching\Class02.ConditionalStructures\obj\Debug\net6.0\Class02.ConditionalStructures.genruntimeconfig.cache
+C:\Users\Martin Srbinoski\Desktop\VEZBE\C#\Class02.DataTypesAndBranching\Class02.ConditionalStructures\obj\Debug\net6.0\ref\Class02.ConditionalStructures.dll
