@@ -1,0 +1,15 @@
+C:\Users\Martin Srbinoski\Desktop\VEZBE\C#\Class01.Intro\Class01.Introduction\bin\Debug\net6.0\Class01.Introduction.exe
+C:\Users\Martin Srbinoski\Desktop\VEZBE\C#\Class01.Intro\Class01.Introduction\bin\Debug\net6.0\Class01.Introduction.deps.json
+C:\Users\Martin Srbinoski\Desktop\VEZBE\C#\Class01.Intro\Class01.Introduction\bin\Debug\net6.0\Class01.Introduction.runtimeconfig.json
+C:\Users\Martin Srbinoski\Desktop\VEZBE\C#\Class01.Intro\Class01.Introduction\bin\Debug\net6.0\Class01.Introduction.dll
+C:\Users\Martin Srbinoski\Desktop\VEZBE\C#\Class01.Intro\Class01.Introduction\bin\Debug\net6.0\Class01.Introduction.pdb
+C:\Users\Martin Srbinoski\Desktop\VEZBE\C#\Class01.Intro\Class01.Introduction\obj\Debug\net6.0\Class01.Introduction.csproj.AssemblyReference.cache
+C:\Users\Martin Srbinoski\Desktop\VEZBE\C#\Class01.Intro\Class01.Introduction\obj\Debug\net6.0\Class01.Introduction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Martin Srbinoski\Desktop\VEZBE\C#\Class01.Intro\Class01.Introduction\obj\Debug\net6.0\Class01.Introduction.AssemblyInfoInputs.cache
+C:\Users\Martin Srbinoski\Desktop\VEZBE\C#\Class01.Intro\Class01.Introduction\obj\Debug\net6.0\Class01.Introduction.AssemblyInfo.cs
+C:\Users\Martin Srbinoski\Desktop\VEZBE\C#\Class01.Intro\Class01.Introduction\obj\Debug\net6.0\Class01.Introduction.csproj.CoreCompileInputs.cache
+C:\Users\Martin Srbinoski\Desktop\VEZBE\C#\Class01.Intro\Class01.Introduction\obj\Debug\net6.0\Class01.Introduction.dll
+C:\Users\Martin Srbinoski\Desktop\VEZBE\C#\Class01.Intro\Class01.Introduction\obj\Debug\net6.0\refint\Class01.Introduction.dll
+C:\Users\Martin Srbinoski\Desktop\VEZBE\C#\Class01.Intro\Class01.Introduction\obj\Debug\net6.0\Class01.Introduction.pdb
+C:\Users\Martin Srbinoski\Desktop\VEZBE\C#\Class01.Intro\Class01.Introduction\obj\Debug\net6.0\Class01.Introduction.genruntimeconfig.cache
+C:\Users\Martin Srbinoski\Desktop\VEZBE\C#\Class01.Intro\Class01.Introduction\obj\Debug\net6.0\ref\Class01.Introduction.dll
