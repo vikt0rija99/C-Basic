@@ -1,0 +1,15 @@
+C:\Users\Martin Srbinoski\Desktop\VEZBE\C#\Class03\Class03.LoopsAndArrays\bin\Debug\net6.0\Class03.LoopsAndArrays.exe
+C:\Users\Martin Srbinoski\Desktop\VEZBE\C#\Class03\Class03.LoopsAndArrays\bin\Debug\net6.0\Class03.LoopsAndArrays.deps.json
+C:\Users\Martin Srbinoski\Desktop\VEZBE\C#\Class03\Class03.LoopsAndArrays\bin\Debug\net6.0\Class03.LoopsAndArrays.runtimeconfig.json
+C:\Users\Martin Srbinoski\Desktop\VEZBE\C#\Class03\Class03.LoopsAndArrays\bin\Debug\net6.0\Class03.LoopsAndArrays.dll
+C:\Users\Martin Srbinoski\Desktop\VEZBE\C#\Class03\Class03.LoopsAndArrays\bin\Debug\net6.0\Class03.LoopsAndArrays.pdb
+C:\Users\Martin Srbinoski\Desktop\VEZBE\C#\Class03\Class03.LoopsAndArrays\obj\Debug\net6.0\Class03.LoopsAndArrays.csproj.AssemblyReference.cache
+C:\Users\Martin Srbinoski\Desktop\VEZBE\C#\Class03\Class03.LoopsAndArrays\obj\Debug\net6.0\Class03.LoopsAndArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Martin Srbinoski\Desktop\VEZBE\C#\Class03\Class03.LoopsAndArrays\obj\Debug\net6.0\Class03.LoopsAndArrays.AssemblyInfoInputs.cache
+C:\Users\Martin Srbinoski\Desktop\VEZBE\C#\Class03\Class03.LoopsAndArrays\obj\Debug\net6.0\Class03.LoopsAndArrays.AssemblyInfo.cs
+C:\Users\Martin Srbinoski\Desktop\VEZBE\C#\Class03\Class03.LoopsAndArrays\obj\Debug\net6.0\Class03.LoopsAndArrays.csproj.CoreCompileInputs.cache
+C:\Users\Martin Srbinoski\Desktop\VEZBE\C#\Class03\Class03.LoopsAndArrays\obj\Debug\net6.0\Class03.LoopsAndArrays.dll
+C:\Users\Martin Srbinoski\Desktop\VEZBE\C#\Class03\Class03.LoopsAndArrays\obj\Debug\net6.0\refint\Class03.LoopsAndArrays.dll
+C:\Users\Martin Srbinoski\Desktop\VEZBE\C#\Class03\Class03.LoopsAndArrays\obj\Debug\net6.0\Class03.LoopsAndArrays.pdb
+C:\Users\Martin Srbinoski\Desktop\VEZBE\C#\Class03\Class03.LoopsAndArrays\obj\Debug\net6.0\Class03.LoopsAndArrays.genruntimeconfig.cache
+C:\Users\Martin Srbinoski\Desktop\VEZBE\C#\Class03\Class03.LoopsAndArrays\obj\Debug\net6.0\ref\Class03.LoopsAndArrays.dll
