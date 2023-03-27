@@ -1,0 +1,15 @@
+C:\Users\Martin Srbinoski\Desktop\VEZBE\C#\Class04\Class04.MethodsDates&Strings\bin\Debug\net6.0\Class04.MethodsDates&Strings.exe
+C:\Users\Martin Srbinoski\Desktop\VEZBE\C#\Class04\Class04.MethodsDates&Strings\bin\Debug\net6.0\Class04.MethodsDates&Strings.deps.json
+C:\Users\Martin Srbinoski\Desktop\VEZBE\C#\Class04\Class04.MethodsDates&Strings\bin\Debug\net6.0\Class04.MethodsDates&Strings.runtimeconfig.json
+C:\Users\Martin Srbinoski\Desktop\VEZBE\C#\Class04\Class04.MethodsDates&Strings\bin\Debug\net6.0\Class04.MethodsDates&Strings.dll
+C:\Users\Martin Srbinoski\Desktop\VEZBE\C#\Class04\Class04.MethodsDates&Strings\bin\Debug\net6.0\Class04.MethodsDates&Strings.pdb
+C:\Users\Martin Srbinoski\Desktop\VEZBE\C#\Class04\Class04.MethodsDates&Strings\obj\Debug\net6.0\Class04.MethodsDates&Strings.csproj.AssemblyReference.cache
+C:\Users\Martin Srbinoski\Desktop\VEZBE\C#\Class04\Class04.MethodsDates&Strings\obj\Debug\net6.0\Class04.MethodsDates&Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Martin Srbinoski\Desktop\VEZBE\C#\Class04\Class04.MethodsDates&Strings\obj\Debug\net6.0\Class04.MethodsDates&Strings.AssemblyInfoInputs.cache
+C:\Users\Martin Srbinoski\Desktop\VEZBE\C#\Class04\Class04.MethodsDates&Strings\obj\Debug\net6.0\Class04.MethodsDates&Strings.AssemblyInfo.cs
+C:\Users\Martin Srbinoski\Desktop\VEZBE\C#\Class04\Class04.MethodsDates&Strings\obj\Debug\net6.0\Class04.MethodsDates&Strings.csproj.CoreCompileInputs.cache
+C:\Users\Martin Srbinoski\Desktop\VEZBE\C#\Class04\Class04.MethodsDates&Strings\obj\Debug\net6.0\Class04.MethodsDates&Strings.dll
+C:\Users\Martin Srbinoski\Desktop\VEZBE\C#\Class04\Class04.MethodsDates&Strings\obj\Debug\net6.0\refint\Class04.MethodsDates&Strings.dll
+C:\Users\Martin Srbinoski\Desktop\VEZBE\C#\Class04\Class04.MethodsDates&Strings\obj\Debug\net6.0\Class04.MethodsDates&Strings.pdb
+C:\Users\Martin Srbinoski\Desktop\VEZBE\C#\Class04\Class04.MethodsDates&Strings\obj\Debug\net6.0\Class04.MethodsDates&Strings.genruntimeconfig.cache
+C:\Users\Martin Srbinoski\Desktop\VEZBE\C#\Class04\Class04.MethodsDates&Strings\obj\Debug\net6.0\ref\Class04.MethodsDates&Strings.dll
