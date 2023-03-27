@@ -1,0 +1,15 @@
+C:\Users\Martin Srbinoski\Desktop\VEZBE\C#\Class05.Classes&Objects\Class05.Classes&Objects\bin\Debug\net6.0\Class05.Classes&Objects.exe
+C:\Users\Martin Srbinoski\Desktop\VEZBE\C#\Class05.Classes&Objects\Class05.Classes&Objects\bin\Debug\net6.0\Class05.Classes&Objects.deps.json
+C:\Users\Martin Srbinoski\Desktop\VEZBE\C#\Class05.Classes&Objects\Class05.Classes&Objects\bin\Debug\net6.0\Class05.Classes&Objects.runtimeconfig.json
+C:\Users\Martin Srbinoski\Desktop\VEZBE\C#\Class05.Classes&Objects\Class05.Classes&Objects\bin\Debug\net6.0\Class05.Classes&Objects.dll
+C:\Users\Martin Srbinoski\Desktop\VEZBE\C#\Class05.Classes&Objects\Class05.Classes&Objects\bin\Debug\net6.0\Class05.Classes&Objects.pdb
+C:\Users\Martin Srbinoski\Desktop\VEZBE\C#\Class05.Classes&Objects\Class05.Classes&Objects\obj\Debug\net6.0\Class05.Classes&Objects.csproj.AssemblyReference.cache
+C:\Users\Martin Srbinoski\Desktop\VEZBE\C#\Class05.Classes&Objects\Class05.Classes&Objects\obj\Debug\net6.0\Class05.Classes&Objects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Martin Srbinoski\Desktop\VEZBE\C#\Class05.Classes&Objects\Class05.Classes&Objects\obj\Debug\net6.0\Class05.Classes&Objects.AssemblyInfoInputs.cache
+C:\Users\Martin Srbinoski\Desktop\VEZBE\C#\Class05.Classes&Objects\Class05.Classes&Objects\obj\Debug\net6.0\Class05.Classes&Objects.AssemblyInfo.cs
+C:\Users\Martin Srbinoski\Desktop\VEZBE\C#\Class05.Classes&Objects\Class05.Classes&Objects\obj\Debug\net6.0\Class05.Classes&Objects.csproj.CoreCompileInputs.cache
+C:\Users\Martin Srbinoski\Desktop\VEZBE\C#\Class05.Classes&Objects\Class05.Classes&Objects\obj\Debug\net6.0\Class05.Classes&Objects.dll
+C:\Users\Martin Srbinoski\Desktop\VEZBE\C#\Class05.Classes&Objects\Class05.Classes&Objects\obj\Debug\net6.0\refint\Class05.Classes&Objects.dll
+C:\Users\Martin Srbinoski\Desktop\VEZBE\C#\Class05.Classes&Objects\Class05.Classes&Objects\obj\Debug\net6.0\Class05.Classes&Objects.pdb
+C:\Users\Martin Srbinoski\Desktop\VEZBE\C#\Class05.Classes&Objects\Class05.Classes&Objects\obj\Debug\net6.0\Class05.Classes&Objects.genruntimeconfig.cache
+C:\Users\Martin Srbinoski\Desktop\VEZBE\C#\Class05.Classes&Objects\Class05.Classes&Objects\obj\Debug\net6.0\ref\Class05.Classes&Objects.dll
